@@ -1,7 +1,7 @@
 # Instruction
-Refer to the assemble.png. 
+Refer to the assembling image:![pic](https://github.com/PetoiCamp/NonCodeFiles/blob/ca1551d3b0845f3b4d12ef8c8dfee985ebc6849c/stl/BittleBeetleHorn/assemble.png)
 
-1. Install the base in the front of Bittle. 
+1. Insert the base in the front of Bittle. 
 2. Install the servo inside the base and fix it with screws. Plug the wire to the slot where you originally plug in the neck servo. 
 3. Install the horn. Note that you must move the robot to calibration posture before attaching the horn.
 4. Install the cover, which can be omitted. 
