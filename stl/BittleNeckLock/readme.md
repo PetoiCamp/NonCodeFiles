@@ -5,5 +5,5 @@ Bittle's neck is designed to detach when a head-on collision happens. It can pre
 ![pic](https://github.com/PetoiCamp/NonCodeFiles/blob/9ea4a9b8f674c5dbf924d306e568c95fe7f7c014/stl/BittleNeckLock/NeckLockSmall.png)
 3. NeckLockLarge takes a longer time to print. It locks the whole neckpiece.
 ![pic](https://github.com/PetoiCamp/NonCodeFiles/blob/9ea4a9b8f674c5dbf924d306e568c95fe7f7c014/stl/BittleNeckLock/NeckLockLarge.png)
-
-StrongLock is the latest solution to lock the neck using little materials. 
+5. StrongLock is the latest solution to lock the neck using little materials. 
+![pic](https://github.com/PetoiCamp/NonCodeFiles/blob/master/stl/BittleNeckLock/StrongLock/View2.png)
