@@ -1,0 +1,2 @@
+This lock will keep the neck in position even during a collision. 
+It reduces the chance of the neck-falling problem but increases the probability of more severe damage to the body frame. 
